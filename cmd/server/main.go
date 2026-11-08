@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/trueinviso/cache/internal/server"
+	"cache/internal/server"
 )
 
 func main() {

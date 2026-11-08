@@ -1,3 +1,3 @@
-module lru
+module cache
 
 go 1.25.2

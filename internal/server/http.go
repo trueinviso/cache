@@ -1,8 +1,8 @@
 package server
 
 import (
+	"cache/internal/lru"
 	"encoding/json"
-	"lru/internal/lru"
 	"net/http"
 	"strconv"
 )

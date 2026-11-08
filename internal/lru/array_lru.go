@@ -1,7 +1,7 @@
 package lru
 
 import (
-	"lru/internal/array_linked_list"
+	"cache/internal/array_linked_list"
 	"sync"
 )
 
